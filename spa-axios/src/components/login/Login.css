@@ -1,0 +1,18 @@
+.form{
+    border: 1px solid silver;
+    background-color: #eaffd9;
+    width: fit-content;
+    margin: 50px auto;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+button{
+    margin-top: 10px;
+}
+
+small{
+    text-align: center;
+    display: block;
+    margin-top: 20px;
+}

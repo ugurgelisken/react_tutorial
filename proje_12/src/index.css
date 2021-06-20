@@ -1,0 +1,42 @@
+body {
+  margin: 10px;
+}
+
+#modal-lightbox div{
+    padding: 2px;
+    position: fixed;
+    z-index: 99;
+    top: 10%;
+    left: 10%;
+    right: 10%;
+    width: 80%;
+    height: max-content;
+    text-align: center;
+    border: 1px solid silver;
+    background-color: black;
+    filter: drop-shadow(1px 1px 2px silver);
+}
+
+#modal-lightbox div .close{
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    background-color: white;
+    border: none;
+    border-radius: 13px;
+    padding: 3px;
+    width: 26px;
+    height: 26px;
+    cursor: pointer;
+}
+
+#modal-lightbox img{
+  width: inherit;
+}
+
+#modal-lightbox p{
+    background-color: #ffffffa3;
+    padding: 10px;
+    position: absolute;
+    bottom: -14px;
+}

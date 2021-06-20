@@ -1,0 +1,11 @@
+{
+    "title": "Single Page Application",
+    "btn_search": "Search",
+    "copyright": "© ugurgelisken",
+    "searched_content": "Searched content",
+    "hasASale": "Has a sale",
+    "noSale": "No sale",
+    "loading": "Loading...",
+    "salePrice": "Sale Price",
+    "discountedPrice": "Discounted Price"
+}

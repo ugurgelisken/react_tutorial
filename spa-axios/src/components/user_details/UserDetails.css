@@ -1,0 +1,24 @@
+.UserDetails{ 
+    border: 1px solid silver;
+    padding: 10px;
+    margin: 10px; 
+}
+
+.UserDetails img{
+    border: 10px solid silver;
+    float: left;
+    margin-right: 10px;
+}
+
+.UserDetails p{
+    height: 10px;
+}
+
+.buttons{
+    text-align: right;
+}
+
+
+.buttons button{
+    margin-left: 4px;
+}

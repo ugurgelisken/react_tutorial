@@ -1,0 +1,22 @@
+.Main{
+   text-align: center;
+   margin-top: 40px;
+}
+
+.Main input{
+    border-radius: 4px;
+    font-size: 20px;
+    padding: 6px;
+    color: #403e3e;
+    border: 1px solid silver;
+ }
+
+ .Main button{
+    color: white;
+    background-color: darkgoldenrod;
+    border: none;
+    padding: 10px;
+    border-radius: 6px;
+    margin-top: 10px;
+    cursor: pointer;
+ }

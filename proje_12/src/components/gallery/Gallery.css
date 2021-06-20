@@ -1,0 +1,33 @@
+.Gallery{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.photo {
+    width: 180px;
+    height: 120px;
+    border: 8px solid silver;
+    margin: 4px;
+    cursor: pointer;
+}
+
+.photo img{
+    height: inherit;
+    width: inherit;
+}
+
+.photo img:hover{
+   filter: sepia(1);
+}
+
+.photo p{
+    position: relative;
+    bottom: 42px;
+    z-index: 1;
+    font-size: 14px;
+    text-align: left;
+    padding: 4px;
+    background-color: #00000091;
+    color: white;
+    width: auto;
+}

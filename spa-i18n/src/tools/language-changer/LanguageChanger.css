@@ -1,0 +1,18 @@
+
+.LanguageChanger{
+    position: fixed;
+    bottom: 40px;
+    right: 0px;
+}
+
+.LanguageChanger button{
+    background-color: white !important;
+    color: silver !important;
+    margin: 2px !important;
+}
+
+
+.LanguageChanger .active{
+    color: red !important;
+    font-weight: 600;
+}

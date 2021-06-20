@@ -1,0 +1,27 @@
+
+.Main {
+    margin: 30vh auto;
+    position: relative;
+    z-index: 9;
+}
+
+.toggle-area{
+    background-color: rgba(255,255,255,0.8);
+    width: fit-content;
+    border-radius: 8px;
+    margin: 10px auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 2px !important;
+    padding-bottom: 2px;
+}
+
+.toggle-button{
+    background-color: rgba(255,255,255,0.8);
+    width: min-content;
+    margin: auto;
+    border-radius: 6px;
+    padding-left: 2px;
+    padding-right: 2px;
+    cursor: pointer;
+}

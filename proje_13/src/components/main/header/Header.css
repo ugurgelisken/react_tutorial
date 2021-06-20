@@ -1,0 +1,25 @@
+.Header-light{
+    padding: 10px;
+    text-align: center;
+    background-color: white;
+    font-size: 20px;
+    width: 100%;
+    height: 100px;
+}
+
+.title-light{
+    color: black;
+}
+
+.Header-dark{
+    padding: 10px;
+    text-align: center;
+    background-color: black;
+    font-size: 20px;
+    width: 100%;
+    height: 100px;
+}
+
+.title-dark{
+    color: silver;
+}

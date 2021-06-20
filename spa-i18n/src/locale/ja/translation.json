@@ -1,0 +1,11 @@
+{
+    "title": "シングルページアプリケーション",
+    "btn_search": "探す",
+    "copyright": "© ugurgelisken",
+    "searched_content": "検索したコンテンツ",
+    "hasASale": "セールあり",
+    "noSale": "売り上げ無し",
+    "loading": "読み込み中。。。",
+    "salePrice": "セールスプライス",
+    "discountedPrice": "割引価格"
+}

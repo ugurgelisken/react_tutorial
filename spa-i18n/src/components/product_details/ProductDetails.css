@@ -1,0 +1,49 @@
+.ProductDetails{
+    padding: 10px;
+    display: flex;
+}
+
+.rightSide{
+    border-left: 2px solid silver;
+    margin-left: 10px;
+    padding-left: 10px;
+}
+
+.name{
+    color: red;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.description{
+    text-align: justify;
+}
+
+.price span{
+    color: silver;
+    margin-left: 6px;
+    text-decoration-line: line-through; 
+}
+
+.discount_amount span{
+    color: green;
+    font-weight: 600;
+    margin-left: 6px;
+}
+
+.status{
+    margin: 10px 0px 10px 0px;
+}
+
+.categories{
+    display: flex;
+}
+
+.categories div{
+    padding: 4px;
+    font-size: 11px;
+    background-color: rgb(46, 46, 46);
+    color: white;
+    margin-right: 4px;
+    border-radius: 6px;
+}

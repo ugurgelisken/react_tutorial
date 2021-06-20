@@ -1,0 +1,12 @@
+.Menu{
+    max-height: 66px;
+    text-align: center;
+}
+
+.logo{
+    height: 52px;
+    margin: auto auto;
+    position: absolute;
+    left: 0px;
+    top: 6px;
+}

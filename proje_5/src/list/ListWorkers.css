@@ -1,0 +1,21 @@
+.worker-box{
+    border: 1px solid silver;
+    border-radius: 4px;
+    margin: 4px;
+    padding: 4px;
+    height: 80px;
+    list-style: decimal;
+    display: flex;
+    align-items: flex-end;
+}
+
+.worker-avatar{
+    height: 80px;
+    width: auto;
+    float: left;
+    margin-right: 8px;
+}
+
+.worker-text{
+    text-align: left;
+}
